@@ -1,0 +1,5 @@
+{
+  "name": "FundVerse: Mutual Fund Explorer",
+  "description": "A web platform that provides detailed information about mutual funds, helping users understand, compare, and choose the right funds for their needs. The platform offers tailored views for Investors, Financial Advisors, Data Analysts, and Administrators.",
+  "requestFramePermissions": []
+}
